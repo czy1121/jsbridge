@@ -1,0 +1,5 @@
+
+apply from: "https://gitee.com/ezy/gradle/raw/master/build-library-android-publish.gradle"
+
+dependencies {
+}
