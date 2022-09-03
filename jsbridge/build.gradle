@@ -1,5 +1,5 @@
 
-apply from: "https://gitee.com/ezy/gradle/raw/master/build-library-android-publish.gradle"
+apply from: "$buildGradlePath/build-library-android.gradle"
 
 dependencies {
 }
